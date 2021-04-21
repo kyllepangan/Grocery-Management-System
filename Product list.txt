@@ -1,0 +1,150 @@
+GROCERY MANAGEMENT SYSTEM by Jedric Amio and Kylle Pangan
+PRODUCT LIST
+
+Product ID serves as barcode in real life scenarios
+
+How to fill up Product ID on cashier side:
+Category Num + Item Number
+Example: For Select Milk 1L, 1+01(101)
+
+
+1: Milk, Coffee, Tea
+	01 - Select Milk 1L - 95 - 0
+	02 - Aska Milk 1L - 99 - 0
+	03 - Brand Bear 1L - 100 - 0
+	04 - Kopi Natin 10 Satchet - 45 - 0
+	05 - KapeNes 10 Satchet - 42 - 0
+	06 - Sanaol Krem .5g - 50 - 0
+	07 - Kremdown .5g - 53 - 0
+	08 - Tang Orange 10 satchet - 22 - 0
+	09 - Tang Dalandan 10 satchet - 22 - 0
+	10 - Teanes Ice Tea .5g - 65 - 0
+	11 - Lemon Herbal Tea 15 satchet - 125 - 10
+	12 - Mint Herbal Tea 15 satchet - 110 - 0
+
+2: Plastics and Laundry Products
+	01 - (S) Garbage Bag - 20 - 0
+	02 - (L) Garbage Bag - 30 - 0
+	03 - Walis Tambo - 120 - 0
+	04 - Mop - 220 - 0
+	05 - Ariel 1kg - 140 - 0
+	06 - Perla 1kg - 125 - 0
+	07 - Babad is speed 1kg - 110 - 0
+	08 - Down Fabcon 1L - 88 - 0
+	09 - Surf Fabcon 1L - 79 - 0
+	10 - Laundry Basket - 60 - 0
+
+3: Beauty(Soap, Shampoo, Alcohol, Facial Wash, Toothpaste)
+	01 - Safe Guard Soap 3pcs - 120 - 30
+	02 - (M) Clear Shampoo - 75 - 0	
+	03 - (M) Dove Shampoo - 80 - 0
+	04 - (F) Head and Shoulders - 90 - 0
+	05 - (F) Dove Shampoo - 90 - 0
+	06 - Kojic White Soap - 45 - 0
+	07 - Alcohol 70% 1L - 125 - 0 
+	08 - Alcohol 50% 1L - 90 - 0
+	09 - Colgate Toothpaste - 65 - 0
+	10 - Close up - 55 - 0
+	11 - Sensodyne Toothpaste - 110 - 0
+	12 - Anti-Bacterial Mouthwash 1L - 175 - 0
+	13 - Colgate Mouthwash 1L - 195 - 0
+	14 - Eskinol Facial Wash .5L - 80 - 0
+	15 - Men Facial Wash - 73 - 0
+
+4: Canned Goods, Oils
+	01 - 555 Sardines - 15 - 0
+	02 - Ligo Sardines - 16 - 0
+	03 - Centennial Tuna (S) - 25 - 0
+	04 - Centennial Tuna (L) - 35 - 0
+	05 - Marino Tuna (S) - 30 - 0
+	06 - Marino Tuna (L) - 45 - 0 
+	07 - 555 Mackerel - 25 - 0
+	08 - Marino Mackerel - 30 - 0
+	09 - Food Pure Corn Beef (S) - 35 - 0
+	10 - Food Pure Corn Beef (L) - 62 - 0
+	11 - Argentina Corn Beef (S) - 28 - 0
+	12 - Argentina Corn Beef (L) - 56 - 0
+	13 - Foods Pure Luncheon Meat - 80 - 0
+	14 - Ma Ling Luncheon Meat - 60 - 0
+	15 - Vegetable Oil 1L - 50 - 0
+	16 - Coconut Oil 1L - 55 - 0
+	17 - Canola Oil 1L - 60 - 0
+	18 - Olive Oil 1L - 90 - 0
+
+5: Bread, Noodles, All-Purpose Creams, Cheese, Spreads
+	01 - Tasty Bread - 35 - 0
+	02 - Wheat Bread - 60 - 0
+	03 - Choco Spread - 89 - 0
+	04 - Peanut Butter - 75 - 0
+	05 - Eden Cheese - 70 - 0
+	06 - Macaroni Noodles 1kg - 50 - 0
+	07 - Spaghetti Noodles 1kg - 60 - 0
+	08 - Spaghetti Sauce 1L - 70 - 0
+	09 - Lucky Me Chicken Noodles - 7 - 0
+	10 - Lucky Me Beef Noodles - 10 - 0
+	11 - Lucky Me Pork Noodles - 9 - 0
+	12 - Pancit Canton (Classic) - 9 - 0
+	13 - Pancit Canton (Calamansi) - 10 - 0
+	14 - Pancit Canton (Spicy Labuyo) - 12 - 0
+	15 - All Purpose Cream 200ml - 65 - 0
+
+6: Rice, Hotdog, Ham, French Fries, Easy-Cook Foods, Fish
+	01 - NFA rice (P/kg) - 35 - 0
+	02 - Premium Rice (P/kg) - 45 - 0
+	03 - Long Grain (P/kg) - 52 - 0
+	04 - Tender Juicy Hotdog 1kg - 60 - 0
+	05 - Virginia Hotdog 1kg - 80 - 0
+	06 - Vida Ham - 50 - 0
+	07 - Foods Pure Ham - 60 - 0
+	08 - French Fries - 110 - 0
+	09 - Chimken Nuggies 1kg - 179 - 0
+	10 - Foods Pure Chimken Nuggies 1kg - 195 - 0
+	11 - Best Baby Pork Tocino 1kg - 80 - 0
+	12 - Foods Pure Baby Pork Tocino 1kg - 95 - 0
+	13 - Pangasinan Marinated Bangus 3pcs - 112 - 0
+	14 - Dalampasigan Marinated Bangus 3pcs - 115 - 0
+
+7: Pork and Beef
+	01 - Menudo Cut (P/kg) - 165 - 0
+	02 - Porkchop (P/kg) - 180 - 0
+	03 - Ribs (P/kg) - 260 - 0
+	04 - Sukiyaki Cut (P/kg)- 130 - 0
+	05 - Pata (P/kg) - 185 - 0
+	06 - Ground Pork (P/kg) - 165 - 0
+	07 - Ground Beef (P/kg) - 210 - 0
+	08 - Ox Tongue (P/kg) - 300 - 0
+	09 - Beef Cut (P/kg) - 190 - 0
+	10 - Steak Cut (P/kg) - 240 - 0
+	11 - Prime Cut (P/kg) - 175 - 0
+
+8: Chicken
+	01 - Whole Chicken (P/kg) - 190 - 0
+	02 - Thigh (P/kg) - 175 - 0
+	03 - Chicken Breast (P/kg) - 160 - 0
+	04 - Wings (P/kg) - 110 - 0
+	05 - Quarter (P/kg) - 190 - 0
+	06 - Gizzard (P/kg) - 90 - 0
+	07 - Skin (P/kg) - 120 - 0
+	08 - Chicken Sisig (P/kg) - 140 - 0
+	09 - Neck (P/kg) - 50 - 0
+	10 - Chicken Fingers (P/pc) - 12 - 0
+	
+9: Vegetables, Egg, Sugar and Salt, Pepper
+	01 - Pipino (P/kg) - 50 - 0
+	02 - Repolyo (P/kg) - 65 - 0
+	03 - Sibuyas na Puti (P/kg) - 90 - 0
+	04 - Sibuyas na Pula (P/kg) - 110 - 0
+	05 - Kangkong (Per pack) - 15 - 0*
+	06 - Sitaw (Per pack) - 20 - 0
+	07 - Sili pang sigang (Per pack) - 15 - 0
+	08 - Kalabasa (P/kg) - 65 - 0
+	09 - Talong (Per pack) - 20 - 0
+	10 - Dozena ng Itlog (12pcs) - 90 - 0
+	11 - 500g White Sugar - 75 - 0
+	12 - 1kg Brown Sugar - 65 - 0
+	13 - 1kg Rock Salt - 55 - 0
+	14 - 1kg Refined Salt - 70 - 0
+	15 - Ground Pepper (per pack) - 5 - 0
+	16 - Whole Ground Pepper (per pack) - 12 - 0
+
+
